@@ -12,7 +12,6 @@ export default function Home() {
     } 
   })
 
-  
   return (
     <>
       <Hero title={data.page.title} subtitle={data.page.subtitle} />
